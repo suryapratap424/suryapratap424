@@ -2,9 +2,8 @@
   <img src="https://github.com/suryapratap424/suryapratap424/assets/68580339/be9ad693-4e76-4c5c-8faa-18577ab85951" />
 </p>
 <h1 align="center">Hello there, I'm Surya👋</h1>
-<img align = "right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryapratap424&label=Profile%20views&color=0e75b6&style=flat" alt="suryapratap" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryapratap424&label=Profile%20views&color=0e75b6&style=flat" alt="suryapratap" /> </p>
 
 <!--<p align="left"> <a href="https://twitter.com/Priyajeet_Majhi" target="blank"><img src="https://img.shields.io/twitter/follow/priyajeet_majhi?logo=twitter&style=for-the-badge" alt="priyajeet_majhi" /></a> </p>-->
 - 🧑‍🏫 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Teacher from India.
@@ -36,7 +35,7 @@
 </br>
 </br>
 
-<div style="display:flex; flex-direction:row;">
+<div>
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryapratap424&show_icons=true&locale=en&layout=pie&theme=radical" alt="suryapratap" /></p>
   
   <p><img src="https://github-readme-stats.vercel.app/api?username=suryapratap424&show_icons=true&rank_icon=github&locale=en&theme=radical" alt="suryapratap" /></p>
