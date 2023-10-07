@@ -1,4 +1,5 @@
 ### Hi there, I'm Surya👋
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <img src="https://komarev.com/ghpvc/?username=suryapratap424&style=flat-square&color=blue" alt=""/>
 <!--
 **suryapratap424/suryapratap424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
