@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Surya👋
+<img src="https://komarev.com/ghpvc/?username=suryapratap424&style=flat-square&color=blue" alt=""/>
 <!--
 **suryapratap424/suryapratap424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
