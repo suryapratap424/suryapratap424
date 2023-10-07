@@ -6,7 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suryapratap424&label=Profile%20views&color=0e75b6&style=flat" alt="suryapratap" /> </p>
 
 <!--<p align="left"> <a href="https://twitter.com/Priyajeet_Majhi" target="blank"><img src="https://img.shields.io/twitter/follow/priyajeet_majhi?logo=twitter&style=for-the-badge" alt="priyajeet_majhi" /></a> </p>-->
-- 🧑‍🏫 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Teacher from India.
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.
+  
+- 🧑‍🏫 Teacher from India.
 
 - 🌱 I’m currently working on <a href="https://github.com/suryapratap424/animated-adventure">**Animated Adventure**</a>
 
